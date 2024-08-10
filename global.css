@@ -1,0 +1,146 @@
+@font-face {
+  font-family: 'Sofia Pro';
+  font-style: normal;
+  font-weight: 500;
+  src: url('./fontFamily/Sofia\ Pro\ Medium\ Az.otf');
+}
+
+
+
+body {
+  margin: 0;
+  font-family: 'Sofia Pro', sans-serif !important;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-sofia-pro: "Sofia Pro";
+
+  /* font sizes */
+  --font-size-7xl: 26px;
+  --font-size-2xl: 21px;
+  --font-size-lg: 18px;
+  --font-size-5xl: 24px;
+  --font-size-lgi: 19px;
+  --font-size-base: 16px;
+  --font-size-17xl: 36px;
+  --font-size-3xl: 22px;
+  --font-size-10xl: 29px;
+  --font-size-xl: 20px;
+  --font-size-sm: 14px;
+  --font-size-base-8: 15.8px;
+  --font-size-56xl: 75px;
+  --font-size-26xl: 45px;
+  --font-size-41xl: 60px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-gray-100: #1f1f1f;
+  --color-gray-200: rgba(0, 0, 0, 0.75);
+  --color-black: #000;
+  --color-gainsboro-100: #e0e0e0;
+  --color-gainsboro-200: #dadada;
+  --color-gainsboro-300: #d9d9d9;
+  --color-whitesmoke-100: #f4f4f4;
+  --color-whitesmoke-200: #f2f2f2;
+  --color-dimgray: #525252;
+  --color-darkslategray-100: #333;
+  --color-darkslategray-200: rgba(51, 51, 51, 0.09);
+  --color-darkgray: #a5a5a5;
+  --color-silver: #c4c4c4;
+
+  /* Gaps */
+  --gap-6xl: 25px;
+  --gap-16xl: 35px;
+  --gap-mid: 17px;
+  --gap-3xs: 10px;
+  --gap-xl: 20px;
+  --gap-7xs: 6px;
+  --gap-28xl: 47px;
+  --gap-4xl: 23px;
+  --gap-lg: 18px;
+  --gap-mini: 15px;
+  --gap-base: 16px;
+  --gap-21xl: 40px;
+  --gap-xs: 12px;
+  --gap-5xs: 8px;
+  --gap-11xl: 30px;
+  --gap-19xl: 38px;
+  --gap-lgi: 19px;
+  --gap-8xl: 27px;
+  --gap-xl-8: 20.8px;
+  --gap-5xs-5: 7.5px;
+  --gap-10xs: 3px;
+  --gap-70xl-3: 89.3px;
+  --gap-26xl: 45px;
+  --gap-xs-8: 11.8px;
+  --gap-8xs: 5px;
+  --gap-51xl: 70px;
+  --gap-9xs: 4px;
+  --gap-3xs-1: 9.1px;
+  --gap-3xs-2: 9.2px;
+  --gap-15xl: 34px;
+
+  /* Paddings */
+  --padding-xl: 20px;
+  --padding-110xl: 129px;
+  --padding-40xl: 59px;
+  --padding-lgi-9: 19.9px;
+  --padding-10xl: 29px;
+  --padding-sm: 14px;
+  --padding-lg: 18px;
+  --padding-4xs: 9px;
+  --padding-22xl: 41px;
+  --padding-2xl: 21px;
+  --padding-13xl: 32px;
+  --padding-8xl: 27px;
+  --padding-mini: 15px;
+  --padding-7xl: 26px;
+  --padding-3xl: 22px;
+  --padding-11xs: 2px;
+  --padding-41xl: 60px;
+  --padding-11xl: 30px;
+  --padding-xs-8: 11.8px;
+  --padding-3xs: 10px;
+  --padding-21xl: 40px;
+  --padding-5xl: 24px;
+  --padding-6xl: 25px;
+  --padding-xs: 12px;
+  --padding-mid: 17px;
+  --padding-9xl: 28px;
+  --padding-20xl: 39px;
+  --padding-base: 16px;
+  --padding-92xl: 111px;
+  --padding-53xl: 72px;
+  --padding-6xs: 7px;
+  --padding-51xl: 70px;
+  --padding-16xl: 35px;
+  --padding-59xl: 78px;
+  --padding-49xl: 68px;
+  --padding-18xl: 37px;
+  --padding-8xs: 5px;
+  --padding-lgi: 19px;
+  --padding-9xs: 4px;
+  --padding-10xs: 3px;
+  --padding-111xl-1: 130.1px;
+  --padding-98xl: 117px;
+  --padding-2xl-7: 21.7px;
+  --padding-4xl: 23px;
+  --padding-66xl: 85px;
+  --padding-xs-2: 11.2px;
+  --padding-12xs: 1px;
+  --padding-12xs-3: 0.3px;
+  --padding-42xl: 61px;
+  --padding-5xs: 8px;
+
+  /* Border radiuses */
+  --br-26xl: 45px;
+  --br-5xl: 24px;
+  --br-13xl: 32px;
+  --br-5xs-3: 7.3px;
+  --br-xl-8: 20.8px;
+  --br-17xl: 36px;
+  --br-48xl-8: 67.8px;
+  --br-9xs: 4px;
+}
